@@ -1,5 +1,5 @@
 ---
-# tasks file for aptly
+# tasks file for Gitlab
 - name: Update Repositories
   become: yes
   apt:
